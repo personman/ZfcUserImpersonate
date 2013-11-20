@@ -1,16 +1,20 @@
 {
-    "name": "mtudor/zfc-user-impersonate",
+    "name": "personman/zfc-user-impersonate",
     "description": "Facilitate impersonation of other users in ZfcUser.",
     "type": "library",
     "keywords": [
         "zf2",
         "zfcuser"
     ],
-    "homepage": "http://github.com/mtudor/ZfcUserImpersonate",
+    "homepage": "http://github.com/personman/ZfcUserImpersonate",
     "authors": [
         {
             "name": "Mark Tudor",
             "email": "code@icefusion.co.uk"
+        },
+        {
+            "name": "Danny Ferguson",
+            "email": "dfergu15@jccc.edu"
         }
     ],
     "require": {
